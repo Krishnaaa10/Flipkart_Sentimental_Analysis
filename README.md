@@ -39,15 +39,6 @@ python sentiment_analysis.py
 
 ---
 
-## 📊 Results
-- **Sentiment Distribution:** Shows how many reviews are positive, negative, or neutral  
-- **Wordcloud:** Visual representation of frequently used terms  
-- **Model Performance:** Accuracy and precision metrics  
-
-*(Add screenshots of graphs/wordcloud here for better presentation)*  
-
----
-
 ## 🚀 Future Improvements
 - Integrate deep learning models like LSTM or BERT  
 - Build a web application using Streamlit or Flask  
